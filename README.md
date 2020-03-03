@@ -6,4 +6,6 @@ VOC数据集制作脚本：
 
 用mean.py计算图像均值
 
+最后用creat_file.py生成用于训练的训练集txt，测试集txt和验证集txt。此文件和三个ＶＯＣ文件平级（Annotations,ImageSets,JPEGImages）
+生成的txt文件存放在ImageSets/Main文件下
 
